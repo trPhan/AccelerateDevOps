@@ -6,7 +6,7 @@ In Chapter 3 - _Teamwork and Collaborative Development_ we learn how to collabo
 
 2. Delete the following line:
 
- 
+  __Delete this line__by trPhan
 
 3. Add one or two lines here with a random text:
 
